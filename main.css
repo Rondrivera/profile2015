@@ -1,0 +1,32 @@
+body, html {
+color: black;
+text-align: center; 
+
+}
+.btn {
+padding-top: 10px;
+
+}
+.info-tab {
+	color:black;
+}
+.jumbotron-hero{
+	color:white;
+}
+.hero{
+	background:url('../img/central-park.jpg');
+	background-size: cover;
+	height: 600px;
+}
+
+.home-shine{
+	background:url('../img/work-space.jpg');
+	background-size: cover;
+	height: 600px;
+	padding-top: 200px;
+}
+
+footer{
+	background-color:#1d1d1d;
+	height:100px;
+}

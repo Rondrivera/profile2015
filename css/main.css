@@ -1,0 +1,167 @@
+body{
+	margin-top:50px;
+	color: black;
+}
+
+.hero{
+	background-image: url('http://newyork-sights.net/wp-content/uploads/images/e8/central-park-wallpaper.jpg');
+	background-size: cover;
+	text-align: center;
+	color:white;
+}
+
+.main-section{
+	height:400px;
+}
+
+.hero-container{
+	width:100%;
+	padding-top:50px;
+}
+
+.hero-text{
+	font-size:56px;
+}
+
+.hero-support-text{
+	font-size:26px;
+}
+
+.white-background{
+	background-color: white;
+	border: white;
+}
+
+.next-steps-section{
+	background:#f4f4f4;
+	height: 450px
+}
+
+.home-shine{
+	background-image: url(http://seattletimes.wpengine.netdna-cdn.com/monica-guzman/files/2014/01/photo-3.jpg);
+	background-size: cover;
+	height:450px;
+	padding-top: 20px;
+}
+
+.home-shine-text{
+	color:white;
+	font-size: 56px;
+
+}
+
+.next-steps-text{
+	font-size: 20px;
+}
+
+.press img{
+	margin:0 20px;
+}
+.banner-ad {
+    background-image: url(http://si.wsj.net/public/resources/images/BN-GA451_WEWORK_P_20141215161923.jpg);
+    background-size: cover;
+}
+
+footer{
+	height: 100px;
+	background-color: #1d1d1d;
+}
+
+/*
+Utility Classes*/
+
+.pt-50{
+	padding-top: 50px;
+}
+
+.pb-30{
+	padding-bottom:30px;
+}
+
+.pt-30{
+	padding-top: 30px;
+}
+
+body{
+	margin-top:50px;
+	color: black;
+}
+
+.hero{
+	background-image: url('http://newyork-sights.net/wp-content/uploads/images/e8/central-park-wallpaper.jpg');
+	background-size: cover;
+	text-align: center;
+	color:white;
+}
+
+.main-section{
+	height:400px;
+}
+
+.hero-container{
+	width:100%;
+	padding-top:50px;
+}
+
+.hero-text{
+	font-size:56px;
+}
+
+.hero-support-text{
+	font-size:26px;
+}
+
+.white-background{
+	background-color: white;
+	border: white;
+}
+
+.next-steps-section{
+	background:#f4f4f4;
+	height: 450px
+}
+
+.home-shine{
+	background-image: url(http://seattletimes.wpengine.netdna-cdn.com/monica-guzman/files/2014/01/photo-3.jpg);
+	background-size: cover;
+	height:450px;
+	padding-top: 20px;
+}
+
+.home-shine-text{
+	color:white;
+	font-size: 56px;
+
+}
+
+.next-steps-text{
+	font-size: 20px;
+}
+
+.press img{
+	margin:0 20px;
+}
+.banner-ad {
+    background-image: url(http://si.wsj.net/public/resources/images/BN-GA451_WEWORK_P_20141215161923.jpg);
+    background-size: cover;
+}
+
+footer{
+	height: 100px;
+	background-color: #1d1d1d;
+}
+
+/*
+Utility Classes*/
+
+.pt-50{
+	padding-top: 50px;
+}
+
+.pb-30{
+	padding-bottom:30px;
+}
+
+.pt-30{
+	padding-top: 30px;
+}
